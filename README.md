@@ -7,3 +7,5 @@ This experiment tries to identify whether a correlation can be established betwe
 * replace the location from where the two datasets are read according to the location of your files
 * replace the location where the two visualisations will be saved if you don't like the default one
 * enjoy!
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4685759.svg)](https://doi.org/10.5281/zenodo.4685759)
